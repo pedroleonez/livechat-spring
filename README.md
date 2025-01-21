@@ -48,7 +48,7 @@ Este projeto implementa uma aplicação de chat em tempo real usando WebSockets 
 
 1. Clone este repositório:
 ```bash
-git clone <URL_DO_REPOSITORIO>
+git clone <https://github.com/pedroleonez/livechat-spring.git>
 cd <livechat-spring>
 ```
 
